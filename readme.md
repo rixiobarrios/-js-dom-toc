@@ -20,9 +20,9 @@ All your HTML for the Table of Contents in the `aside` element must be generated
 <details>
 <summary>Need a hint?</summary>
 
-1. First grab the h1/h2 elements from the DOM by their class name.
+1. First use a DOM method to retrieve "get" the h1/h2 elements from the DOM by their class name.
 2. Then think about what JS DOM method you might use to add those headers to the `aside` element.
-3. Remember that your Table of Contents should be created from DOM methods inside your `script.js` file, and that you should not
+3. Remember that your Table of Contents should be created from DOM methods inside your `script.js` file, and that you should not directly edit your `index.html` file.
 
 </details>
 
