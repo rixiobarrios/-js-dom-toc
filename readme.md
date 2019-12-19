@@ -36,6 +36,8 @@ All your HTML for the Table of Contents in the `aside` element must be generated
 -   [ ] Modify the Table of Contents, either via the HTML file or DOM manipulation, to contain jump links in the Table of Contents listings that link the user to that section of the page. (Hint: think about how you might be able to create and use an `a` tag and set its `href` attribute. Try to do this via DOM manipulation only, but if needed to complete this step feel free to tweak the HTML.)
 -   [ ] Add more styles to your `style.css` file to make your Table of Contents look more polished! Check out the MDN [documentation](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style) on setting inline styles via DOM Manipulation.
 
-## Further Reading
+## Further Reading & Practice
 
-Khan Academy has a great tutorial and quiz on [DOM](https://www.khanacademy.org/computing/computer-programming/html-css-js/js-and-the-dom/pt/the-dom-document-object-model).
+-   Another [assignment](https://git.generalassemb.ly/seir-129/js-dom-GOT-fanpage) to practice your DOM manipulation and event listener SKILLZ.
+
+-   Khan Academy has a tutorial and quiz on [DOM](https://www.khanacademy.org/computing/computer-programming/html-css-js/js-and-the-dom/pt/the-dom-document-object-model).
